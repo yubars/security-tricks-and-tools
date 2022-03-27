@@ -7,3 +7,6 @@ Top 20 Google Hacking Techniques - SecurityTrails
       
 Internet Scanning: Definition, Benefits, Brief History and Tools
       https://securitytrails.com/blog/internet-scanning
+
+How to block Shodan scanners
+      https://wiki.ipfire.org/configuration/firewall/blockshodan
